@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tictactoe-55222": {
+      "hosting": {
+        "tictactoe-app": [
+          "tictactoe-55222"
+        ]
+      }
+    }
+  }
+}
