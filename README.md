@@ -1,7 +1,7 @@
 # TictactoeApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.
-Styling was done using [Nebular](https://github.com/akveo/nebular) and was deployed using [Firebase CLI](https://github.com/firebase/firebase-tools)
+Styling was done using [Nebular](https://github.com/akveo/nebular), was deployed using [Firebase CLI](https://github.com/firebase/firebase-tools), and tests were written with [Cypress](https://docs.cypress.io/guides/getting-started/writing-your-first-test#Add-a-test-file).
 
 ## Development server
 
@@ -29,6 +29,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Preview Image
 
-#### Deployed at https://tictactoe-55222.web.app
-
 ![Preview game](https://github.com/KarlyLamm/TicTacToe-AngularApp/blob/main/game.png)
+
+#### Deployed at https://tictactoe-55222.web.app
