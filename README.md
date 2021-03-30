@@ -31,4 +31,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 #### Deployed at https://tictactoe-55222.web.app
 
-![Preview game](game.PNG)
+![Preview game](https://github.com/KarlyLamm/TicTacToe-AngularApp/blob/main/game.png)
